@@ -9,3 +9,6 @@ if true
 else
   puts "Odd!"
 end
+
+
+current_time = current_time.to_i
